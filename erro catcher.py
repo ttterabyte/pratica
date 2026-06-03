@@ -20,3 +20,5 @@ print('I caught ' + str(ladybugs) + ' total bugs!')
 #print('I caught ' + ladybug + ' 🐞 ladybugs!)
 
 #print('I caught ' + str(total) + ' total bugs!'
+
+# :)
