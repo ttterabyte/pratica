@@ -5,3 +5,4 @@ result = celsius / 1.8
 print(result)
 
 #deu certo
+# :)
