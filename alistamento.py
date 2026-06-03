@@ -5,3 +5,4 @@ if idade < 18:
 
 elif idade >= 18:
     print('voce tem idade para se alistar')
+# :)
