@@ -7,3 +7,4 @@ elif ingressos < compradores:
     print('nao tem ingressos suficiente')
 
 #codigo merda
+# :)
