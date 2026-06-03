@@ -7,3 +7,4 @@ dolar = pesos * 0.00028 + reais * 0.20 + soles * 0.29
 print(dolar)
 
 #03/06/2026
+# :)
