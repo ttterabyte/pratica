@@ -6,3 +6,4 @@ elif hour < 18:
     print("boa tarde")
 else:
     print("boa noite")
+    # :)
