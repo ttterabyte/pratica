@@ -1,4 +1,11 @@
 earth_weight = float(input('earth weight: '))
+print('1) mercury')
+print('2) venus')
+print('3) mars')
+print('4) jupiter')
+print('5) saturn')
+print('6) uranos')
+print('7) neptune')
 planet_number = int(input('planet number: '))
 
 if planet_number == 1:
@@ -19,4 +26,4 @@ else:
   print('invalid number')
 
 destination_weight = earth_weight * relative_gravity
-print(destination_weight)
+print (round(destination_weight))
